@@ -1,5 +1,5 @@
 # 💫 About Me:
-💡 Passionate DevOps Engineer focused on automation, scalability, and cloud infrastructure.<br>🔭 Working on Cloud-Native & DevOps Projects<br>🌱 Hands-on with Kubernetes, AWS, Terraform & Ansible<br>🐧 Strong expertise in Linux Administration<br>📡 Skilled in Monitoring & Observability (Prometheus, Grafana, Dynatrace)<br>🤝 Open to Open Source & DevOps Collaboration<br>⚡ Fun fact: I automate everything 😄
+💡 Passionate DevOps Engineer focused on automation, scalability, and cloud infrastructure.<br>🔭 Working on Cloud-Native & DevOps Projects<br>🌱 Hands-on with Docker, Jenkins, Kubernetes, AWS, Terraform & Ansible<br>🐧 Strong expertise in Linux Administration<br>📡 Skilled in Monitoring & Observability (Prometheus, Grafana, Dynatrace)<br>🤝 Open to Open Source & DevOps Collaboration<br>⚡ Fun fact: I automate everything 😄
 
 
 ## 🌐 Socials:
